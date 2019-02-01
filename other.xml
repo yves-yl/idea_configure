@@ -1,0 +1,28 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="24-34-207-255,,,225-11-36-255,,,154-154-154-255,,,130-130-130-255,,,84-84-84-255,,,32-153-157-255,,,0-128-0-255,,,143-33-190-255,,,199-92-61-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="IJ_BASE_PACKAGE" value="" />
+    <property name="INSPECTION_FILTER_HISTORY" value="unnecessa" />
+    <property name="KEYMAP" value="forward&#10;back" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="temp&#10;access&#10;pair&#10;misspelling&#10;case" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/Java/algo_java&#10;/home/yves/Projects/Java/algo_java/BST&#10;/home/yves/Projects/Java/Algo/BST&#10;/usr/lib/jvm/java&#10;/usr/lib/jvm/jre-11-openjdk-11.0.1.13-10.fc29.x86_64&#10;/usr/lib/jvm/java-11-openjdk&#10;/usr/lib/jvm/java-11-openjdk-11.0.ea.28-2.fc29.x86_64&#10;/usr/lib/jvm/jre-11-openjdk-11.0.ea.28-2.fc29.x86_64&#10;/home/yves/Projects/Java" />
+    <property name="file.gist.reindex.count" value="33" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="11 (2)" />
+    <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-183.4886.37" />
+    <property name="lastTip" value="16" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="NOT_USED_ELEMENT_ATTRIBUTES" />
+  </component>
+</application>

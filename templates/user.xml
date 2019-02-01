@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="fora" value="for (int i = 0 ;i&lt;m ;++i){&#10;&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

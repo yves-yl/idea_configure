@@ -3,7 +3,7 @@
     <property name="created">2019-01-27T16:41:36</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-27T19:10:26</property>
+    <property name="modified">2019-02-07T22:22:21</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <attributes>
@@ -102,7 +102,7 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e10b24" />
+        <option name="FOREGROUND" value="cd1210" />
       </value>
     </option>
     <option name="STATIC_FIELD_IMPORTED_ATTRIBUTES">
@@ -122,9 +122,6 @@
         <option name="FOREGROUND" value="e10b24" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
   </attributes>
 </scheme>
